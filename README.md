@@ -9,3 +9,4 @@ wget:
 sudo bash <(wget -qO- https://raw.githubusercontent.com/greathy19/optinev/refs/heads/main/install.sh)
 
 Eso es todo.
+curl -s https://raw.githubusercontent.com/greathy19/optinev/refs/heads/main/install.sh -o install.sh && sudo bash install.sh
